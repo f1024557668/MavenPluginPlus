@@ -1,0 +1,2 @@
+# MavenPluginPlus
+实现直接在idea中即可搜索maven库已经查看对应的cve情况
